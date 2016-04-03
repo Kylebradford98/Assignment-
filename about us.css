@@ -1,0 +1,40 @@
+@charset "utf-8";
+@charset "utf-8";
+body {
+    background-color:yellow;
+}
+header {
+    text-align:left;
+    background-color:;
+
+}
+h2 {
+    text-align: left;
+    margin-left:auto;
+}
+
+h1{
+	background-color:orange;
+}
+div#navbar ul li a {
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	Font-size: 1.1em;
+	Font-weight: 800;
+	text-decoration:none;
+	color:white;
+	padding: 1em;
+	background-color:black;
+	text-align:center;
+	display:block;
+	margin:0 0 .50em 0;
+	}
+div#navbar ul{
+	list-style-type:none;
+	padding-left:0;img {
+}
+img{
+	align-content: center;
+	margin-top: 10em;
+	margin-right: 10em;
+	margin-left: 10em;
+	margin-bottom: 10em;

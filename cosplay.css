@@ -1,0 +1,50 @@
+@charset "utf-8";
+@charset "utf-8";
+body {
+	background-color: yellow;
+
+}
+header {
+	text-align: center;
+	background-color:orange;
+	}
+Div#navbar{
+ width:100%;
+ 
+ 
+	
+}
+div#navbar ul {
+	list-style-type: none;
+	padding-left:0
+	
+}
+h2 {
+	text-align: left;
+	margin-left:auto;
+	
+
+}
+
+div#navbar ul li a {
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	Font-size: 1.1em;
+	Font-weight: 800;
+	text-decoration:none;
+	color:white;
+	padding: .75em;
+	background-color:black;
+	text-align:center;
+	display:inline;
+	width: 19%;
+	float: left;
+	margin-right:.5em;
+	
+	}
+div#nabar ul li {
+	background-color:orange;
+	margin:0 0 .25em 0;
+	
+	
+	h2 {
+}
